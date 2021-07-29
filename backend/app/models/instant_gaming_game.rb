@@ -1,0 +1,2 @@
+class InstantGamingGame < ApplicationRecord
+end
